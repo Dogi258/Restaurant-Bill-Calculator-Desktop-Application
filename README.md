@@ -6,3 +6,7 @@ This project is a desktop application built with the .NET Framework. The user ca
 * How to work with the ComboBox Control
 * How to create Event Handlers for form controls
 * How to work with Labels, TextBoxes, and Buttons
+
+# Demo
+
+![App Demo](demo/demo.gif)
